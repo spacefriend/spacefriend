@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Projects:
-[Library App](https://spacefriend.github.io/library-app/index.html)
+[Library App](https://spacefriend.github.io/library-app/index.html) <sup>currently working on</sup>
 
 [Etch-a-Sketch](https://spacefriend.github.io/etch-a-sketch/)
 
