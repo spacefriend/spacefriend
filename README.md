@@ -3,7 +3,7 @@
 ## Projects:
 🐮 = currently working on
 
-[Library App](https://spacefriend.github.io/library-app/index.html) 🐮
+[Library App](https://spacefriend.github.io/library-app) 🐮
 
 [Etch-a-Sketch](https://spacefriend.github.io/etch-a-sketch/)
 
