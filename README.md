@@ -3,7 +3,9 @@
 ## Projects:
 🐮 = currently working on
 
-[Library App](https://spacefriend.github.io/library-app) 🐮
+[Tic-tac-toe](https://github.com/spacefriend/tic-tac-toe) 🐮
+
+[Library App](https://spacefriend.github.io/library-app) 
 
 [Etch-a-Sketch](https://spacefriend.github.io/etch-a-sketch/)
 
