@@ -3,7 +3,7 @@
 ## Projects:
 🐮 = currently working on
 
-[Tic-tac-toe]((https://spacefriend.github.io/tic-tac-toe/) 
+[Tic-tac-toe](https://spacefriend.github.io/tic-tac-toe/) 
 
 [Library App](https://spacefriend.github.io/library-app) 
 
