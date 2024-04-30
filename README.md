@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 ## Projects:
-Currently working on: [Todo List](https://github.com/spacefriend/Todo-list)
+Currently working on: 
+
+[Todo List](https://github.com/spacefriend/Todo-list)
+
+
 
 
 Past Projects:
+
 [Tic-tac-toe](https://spacefriend.github.io/tic-tac-toe/) 
 
 [Library App](https://spacefriend.github.io/library-app) 
